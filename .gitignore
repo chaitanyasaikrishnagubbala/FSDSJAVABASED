@@ -1,0 +1,8 @@
+*.class
+.metadata/
+.settings/
+build/
+target/
+work/
+temp/
+.env
